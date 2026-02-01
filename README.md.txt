@@ -1,0 +1,72 @@
+# 🛒 Retail Sales Analysis using SQL
+
+## 📌 Project Overview
+This project focuses on analyzing retail sales data using SQL to uncover business insights related to sales performance, customer behavior, product categories, and time-based trends.
+
+The project demonstrates **real-world SQL skills** including:
+- Data cleaning
+- Handling NULL values
+- Aggregations
+- Window functions
+- Business-driven analysis
+
+---
+
+## 🗂 Dataset Information
+- Source: Retail sales transactional data
+- Format: CSV
+- Records include:
+  - Transaction ID
+  - Sale date & time
+  - Customer demographics (age, gender)
+  - Product category
+  - Quantity sold
+  - COGS
+  - Total sale value
+
+---
+
+## 🛠 Tools & Technologies
+- SQL Server
+- T-SQL
+- GitHub
+
+---
+
+## 🔄 Project Workflow
+
+### 1️⃣ Data Exploration
+- Total records count
+- Unique customers
+- Available product categories
+
+### 2️⃣ Data Cleaning
+- Identified NULL values across key columns
+- Counted NULLs per column and per row
+- Strategy applied:
+  - Removed rows with multiple NULL values
+  - Filled missing values using averages or most frequent values
+
+### 3️⃣ Data Analysis
+Business questions answered using SQL:
+
+- Sales on a specific date
+- High-value transactions
+- Category-wise total sales
+- Gender-wise purchase behavior
+- Monthly sales trends
+- Best-selling month per year
+- Top 5 customers by revenue
+- Shift-wise order distribution (Morning / Afternoon / Evening)
+
+---
+
+## 📊 Key Insights
+- Certain categories contribute significantly more revenue
+- A small group of customers generates a large portion of sales
+- Evening shifts show higher order volume
+- Seasonal trends impact monthly sales performance
+
+---
+
+## 📂 Repository Structure
