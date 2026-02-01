@@ -69,4 +69,21 @@ Business questions answered using SQL:
 
 ---
 
-## 📂 Repository Structure
+---
+
+## 🚀 How to Use
+1. Import the CSV file into SQL Server
+2. Run the SQL script step by step:
+   - Data exploration
+   - Data cleaning
+   - Business analysis queries
+3. Modify queries to explore additional insights
+
+---
+
+## 👤 Author
+Pushkar Dhond  
+Aspiring Data Analyst  
+Skills: SQL | Power BI | SSIS | Data Analysis
+
+
